@@ -5,7 +5,7 @@ Blackjack is a very famous and popular card game at the Casino💰. Players play
 
 You bet money, double it if you win, but lose it if you lose.
 
-How to win?
+**How to win?**
 
 Get a higher total than the dealer with your cards or simply get a Blackjack (a total of 21)
 
